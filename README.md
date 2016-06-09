@@ -24,7 +24,12 @@ The history statistic can then be consulted on a web page.
 ### Data consultation
 
 * Open `index.html`
+![map](https://cloud.githubusercontent.com/assets/11699669/15944399/ade94494-2e8d-11e6-9f6e-f7a961fd5bac.png)
 * Click on a Velib station
+![stats](https://cloud.githubusercontent.com/assets/11699669/15944398/ade70576-2e8d-11e6-9ebf-bcc738c61634.png)
+* Enjoy!
+ * Graph can be zoomed in or out
+ * Switch between Velib number or percent
 
 ## Links
 
