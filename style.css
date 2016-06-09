@@ -1,0 +1,59 @@
+body
+{
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+}
+
+h2
+{
+    text-align: center;
+    background: rgba(124, 181, 236, 0.5);
+}
+
+.centerText
+{
+    text-align: center;
+}
+
+footer
+{
+    text-align: right;
+    font-size: 12px;
+}
+
+footer img
+{
+    vertical-align: text-bottom;
+}
+
+footer p
+{
+    font-style: italic;
+}
+
+.divElement
+{
+    width: 80%;
+    min-width: 600px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+#loadingDiv
+{
+    height: 60px;
+}
+
+#loadingDiv img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+
+button
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
