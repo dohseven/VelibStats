@@ -276,6 +276,6 @@ $sql->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_OBJ);
         <div id='StationStats'></div>
     </body>
     <footer>
-        <p>VelibStats, real-time data of the Velib service with history stats - See it on <a href="https://github.com/dohseven/velibstats" target="_blank"><img src='images/github.png' alt='GitHub' height='15px'/></a></p>
+        <p>VelibStats, real-time data of the Velib service with history stats - See it on <a href="https://github.com/dohseven/VelibStats" target="_blank"><img src='images/github.png' alt='GitHub' height='15px'/></a></p>
     </footer>
 </html>
